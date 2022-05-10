@@ -1,31 +1,33 @@
 // lib
 
 // abstracts
-@import "./abstracts/variables";
-@import "./abstracts/mixins";
+//@import "./abstracts/variables";
+//@import "./abstracts/mixins";
 
 // base
 
 //@import "../../node_modules/bootstrap/scss/bootstrap";
-@import "./base/normalize";
+//@import "./base/normalize";
 
-@import "fonts";
+//@import "fonts";
 
 
-@import "./base/tipography";
-@import "./base/global";
+//@import "./base/tipography";
+//@import "./base/global";
 
 // components
-@import "../module/components/burger/burger";
-@import "../module/components/link/link";
-@import "../module/components/button/button";
-@import "../module/components/inputs/inputs";
-@import "../module/components/logo/logo";
-@import "../module/components/contacts/contacts";
+//@import "../module/components/burger/burger";
+//@import "../module/components/link/link";
+//@import "../module/components/button/button";
+//@import "../module/components/inputs/inputs";
+//@import "../module/components/logo/logo";
+//@import "../module/components/contacts/contacts";
 
 // sections
 
 
 // block
-@import "../module/blocks/blocks-base/header/header";
-@import "../module/blocks/blocks-base/footer/footer";
+//@import "../module/blocks/blocks-base/header/header";
+//@import "../module/blocks/blocks-base/footer/footer";
+
+@import "bootstrap-temp";

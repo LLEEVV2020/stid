@@ -927,10 +927,10 @@ h1, h2, h3, h4, h5,
 	@include media-breakpoint-down(lg){
 		background-position: center center !important;
 	}
-	.icon{
-		span{
-		}
-	}
+	//.icon{
+	//	span{
+	//	}
+	//}
 	.block-18{
 		display: block;
 		width: 100%;
@@ -1299,16 +1299,16 @@ textarea.form-control {
 //ABOUT
 
 .about-author{
-	img{
-	}
+	//img{
+	//}
 	.desc{
 		h3{
 			font-size: 24px;
 		}
 	}
-	.bio{
+	//.bio{
 
-	}
+	//}
 }
 
 

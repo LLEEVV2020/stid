@@ -10,8 +10,8 @@ import './jquery.animateNumber.min.js';
 import './owl.carousel.min.js';
 import './jquery.magnific-popup.min.js';
 import './scrollax.min.js';
-import './google-map-js.js';
-import './google-map.js';
+///import './google-map-js.js';
+//import './google-map.js';
 import './main.js';
 
 
